@@ -27,32 +27,32 @@ Human pose estimation @Moazzem Hossain
 - [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf)
 (2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)
 
-- End-to-end Recovery of Human Shape and Pose (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)[[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
+- [End-to-end Recovery of Human Shape and Pose (2017)](https://arxiv.org/pdf/1712.06584.pdf)</b> [[Project page]](https://github.com/akanazawa/hmr)
 
-- LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images (2018)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)[[Paper]](https://arxiv.org/pdf/1803.00455.pdf)
+- [LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images (2018)](https://arxiv.org/pdf/1803.00455.pdf)</b> [[Project page]](https://thoth.inrialpes.fr/src/LCR-Net/)
 
-- Spatio-temporal Matching for Human Pose Estimation (2014)</b> [[Project page]](http://www.f-zhou.com/hpe.html)[[Paper]](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf)
+- [Spatio-temporal Matching for Human Pose Estimation (2014)](http://www.f-zhou.com/hpe/2014_ECCV_STM.pdf)</b> [[Project page]](http://www.f-zhou.com/hpe.html)
 
-- Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video (2016)</b> [[Paper]](https://arxiv.org/pdf/1511.09439.pdf)
+- [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video (2016)](https://arxiv.org/pdf/1511.09439.pdf)
 
-- Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1611.05708.pdf)
+- [Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation (2017)](https://arxiv.org/pdf/1611.05708.pdf)
 
-- Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image (2016)</b> [[Paper]](https://arxiv.org/pdf/1607.08128.pdf)
+- [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image (2016)](https://arxiv.org/pdf/1607.08128.pdf)
 
-- MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild (2016)</b> [[Paper]](https://arxiv.org/pdf/1607.02046.pdf)
+- [MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild (2016)]</b> [[Paper]](https://arxiv.org/pdf/1607.02046.pdf)
 
-- Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image (2017)</b> [[Paper]](https://arxiv.org/pdf/1701.00295.pdf)
+- [Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image (2017)]</b> [[Paper]](https://arxiv.org/pdf/1701.00295.pdf)
 
-- MonoPerfCap: Human Performance Capture from Monocular Video (2018)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/) [[Paper]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf)
+- [MonoPerfCap: Human Performance Capture from Monocular Video (2018)]</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/) [[Paper]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/content/monoperfcap.pdf)
 
-- Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations (2018)</b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html) [[Paper]](https://arxiv.org/pdf/1803.08244.pdf)
+- [Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations (2018)]</b> [[Project page]](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html) [[Paper]](https://arxiv.org/pdf/1803.08244.pdf)
 
-- 3D Human Pose Estimation in the Wild by Adversarial Learning (2018)</b> [[Paper]](https://arxiv.org/pdf/1803.09722.pdf)
+- [3D Human Pose Estimation in the Wild by Adversarial Learning (2018)]</b> [[Paper]](https://arxiv.org/pdf/1803.09722.pdf)
 
-- Deep Human Pose Estimation Using Cascade of Multiple Neural Networks (2018)</b> [[Paper]](https://ieeexplore.ieee.org/document/8432121/)
+- [Deep Human Pose Estimation Using Cascade of Multiple Neural Networks (2018)]</b> [[Paper]](https://ieeexplore.ieee.org/document/8432121/)
 
-- Deep 3D Human Pose Estimation Under Partial Body Presence (2018)</b> [[Paper]](https://ieeexplore.ieee.org/document/8451031)
+- [Deep 3D Human Pose Estimation Under Partial Body Presence (2018)]</b> [[Paper]](https://ieeexplore.ieee.org/document/8451031)
 
-- 3D Ego-Pose Estimation via Imitation Learning (2018)</b> [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf)
+- [3D Ego-Pose Estimation via Imitation Learning (2018)]</b> [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ye_Yuan_3D_Ego-Pose_Estimation_ECCV_2018_paper.pdf)
 
-- Unifying Deep Learning and Model-Based Human Pose and Shape Estimation (2018)</b> [[Paper]](https://arxiv.org/pdf/1808.05942.pdf)
+- [Unifying Deep Learning and Model-Based Human Pose and Shape Estimation (2018)](https://arxiv.org/pdf/1808.05942.pdf)
