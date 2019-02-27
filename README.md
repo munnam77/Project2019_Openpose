@@ -5,6 +5,8 @@ Human pose estimation @Moazzem Hossain
 
 ## OpenPose Papers
 
+-[Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf)
+
 ### 3D Pose estimation
 
 
