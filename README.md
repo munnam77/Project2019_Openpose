@@ -5,12 +5,13 @@ Human pose estimation @Moazzem Hossain
 
 ## OpenPose Papers
 
+- [A Simple Yet Effective Baseline for 3d Human Pose Estimation](https://arxiv.org/pdf/1705.03098.pdf) - [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
+- [RF-based 3D skeletons using Openpose by MIT](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf) - Mingmin Zhao, Yonglong Tian, Hang Zhao, Mohammad Abu Alsheikh,. Tianhong Li, Rumen Hristov, Zachary Kabelac, Dina Katabi
 - [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf)
 
 ### 3D Pose estimation
 
 - [Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video](http://arxiv.org/abs/1511.09439) - [[CODE]](https://github.com/daniilidis-group/monocap) - X. Zhou, M. Zhu, G. Pavlakos, S. Leonardos, K.G. Derpanis, K. Daniilidis. (CVPR 2016)
-- [A Simple Yet Effective Baseline for 3d Human Pose Estimation](https://arxiv.org/pdf/1705.03098.pdf) - [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline)
 - [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) - [[CODE]](https://github.com/timctho/VNect-tensorflow) - Mehta, Dushyant et al. (SIGGRAPH 2017)
 - [3D Human Pose Estimation = 2D Pose Estimation + Matching](https://arxiv.org/pdf/1612.06524.pdf) - [[CODE]](https://github.com/flyawaychase/3DHumanPose) - Ching-Hang Chen, Deva Ramanan. (CVPR 2017)
 - [3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf) - [[CODE]](http://www.sysu-hcp.net/3d_pose_ssl/) - Keze Wang, Liang Lin, Chenhan Jiang, Chen Qian, and Pengxu Wei. (TPAMI 2019)
