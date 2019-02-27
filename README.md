@@ -13,14 +13,14 @@ Human pose estimation @Moazzem Hossain
 
 ### 3D Pose estimation
 - [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf)
-(2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)[[Paper]]
-- VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/VNect/)[[Paper]](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf)
+(2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)
+- [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
-- Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.03453.pdf)
+- [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input (2018)](https://arxiv.org/pdf/1712.03453.pdf)
 
-- Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision (2017)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)[[Paper]](https://arxiv.org/pdf/1611.09813.pdf)
+- [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision (2017)](https://arxiv.org/pdf/1611.09813.pdf) [[Project page]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 
-- DensePose: Dense Human Pose Estimation In The Wild (2018)</b> [[Project page]](http://densepose.org)[[Paper]](https://arxiv.org/pdf/1802.00434.pdf)
+- [DensePose: Dense Human Pose Estimation In The Wild (2018)](https://arxiv.org/pdf/1802.00434.pdf)</b> [[Project page]](http://densepose.org)
 
 - End-to-end Recovery of Human Shape and Pose (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)[[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
 
