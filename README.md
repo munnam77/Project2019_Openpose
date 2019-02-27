@@ -7,7 +7,7 @@ Human pose estimation @Moazzem Hossain
 
 - [A Simple Yet Effective Baseline for 3d Human Pose Estimation](https://arxiv.org/pdf/1705.03098.pdf) - [[CODE]](https://github.com/una-dinosauria/3d-pose-baseline) - Julieta Martinez, Rayat Hossain, Javier Romero, and James J. Little University of British Columbia
 - [RF-based 3D skeletons using Openpose by MIT](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf) - Mingmin Zhao, Yonglong Tian, Hang Zhao, Mohammad Abu Alsheikh,. Tianhong Li, Rumen Hristov, Zachary Kabelac, Dina Katabi
-- [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf)
+- [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf) - Hanbyul Joo, Tomas Simon, Yaser Sheikh; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 8320-8329
 
 ### 3D Pose estimation
 
