@@ -12,8 +12,7 @@ Human pose estimation @Moazzem Hossain
 - [Using a Single RGB Frame for Real Time 3D Hand Pose Estimation in the Wild](https://arxiv.org/abs/1712.03866) - Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros
 
 ### 3D Pose estimation
-- [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf)
-(2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)
+
 - [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera (2017)](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf)</b> [[Project page]](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
 - [Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input (2018)](https://arxiv.org/pdf/1712.03453.pdf)
@@ -21,6 +20,8 @@ Human pose estimation @Moazzem Hossain
 - [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision (2017)](https://arxiv.org/pdf/1611.09813.pdf) [[Project page]](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 
 - [DensePose: Dense Human Pose Estimation In The Wild (2018)](https://arxiv.org/pdf/1802.00434.pdf)</b> [[Project page]](http://densepose.org)
+- [A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/pdf/1705.03098.pdf)
+(2017)</b> [[Project page]](https://github.com/una-dinosauria/3d-pose-baseline)
 
 - End-to-end Recovery of Human Shape and Pose (2017)</b> [[Project page]](https://github.com/akanazawa/hmr)[[Paper]](https://arxiv.org/pdf/1712.06584.pdf)
 
